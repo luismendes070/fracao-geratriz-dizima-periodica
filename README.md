@@ -1,2 +1,2 @@
 # fracao-geratriz-dizima-periodica
-Repeating decimal
+Repeating decimal #Java #ChatGPT
